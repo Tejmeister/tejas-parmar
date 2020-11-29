@@ -11,7 +11,6 @@ class Header extends Component {
         return (
           <li key={network.name}>
             <a href={network.url}>
-              {network.name}
               <i className={network.className}></i>
             </a>
           </li>
