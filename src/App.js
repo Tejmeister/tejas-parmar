@@ -1,5 +1,4 @@
 import "./App.css";
-import $ from "jquery";
 import ReactGA from "react-ga";
 import Header from "./Components/Header";
 import React, { Component } from "react";
