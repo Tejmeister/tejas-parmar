@@ -5,7 +5,7 @@ export const resume = {
     description:
       "I am full-stack developer and an enthusiastic product engineer",
     image: "profilepic.png",
-    bio: "This is lorem ipsum",
+    bio: "I am a Computer Engineer",
     contactmessage:
       "Here is where you should write your message to readers to have them get in contact with you.",
     email: "tejasparmar99@gmail.com",
@@ -16,43 +16,33 @@ export const resume = {
       state: "Maharashtra",
       zip: "400004",
     },
-    website: "http://www.timbakerdev.com",
+    website: "https://Tejmeister.github.io/tejas-parmar",
     resumedownload: "http://timbakerdev.com",
     social: [
       {
         name: "facebook",
-        url: "http://facebook.com/tim.baker.906",
+        url: "https://www.facebook.com/tejas.parmar.12979/",
         className: "fa fa-facebook",
       },
       {
         name: "twitter",
-        url: "http://twitter.com",
+        url: "https://twitter.com/tejasparmar99",
         className: "fa fa-twitter",
       },
       {
-        name: "google-plus",
-        url: "http://googleplus.com/tbakerx",
-        className: "fa fa-google-plus",
-      },
-      {
         name: "linkedin",
-        url: "https://www.linkedin.com/in/tim-baker-8420009a/",
+        url: "https://www.linkedin.com/in/tejas-parmar-b66703134/",
         className: "fa fa-linkedin",
       },
       {
         name: "instagram",
-        url: "http://instagram.com/tbaker_x",
+        url: "https://www.instagram.com/tejp_97/",
         className: "fa fa-instagram",
       },
       {
         name: "github",
-        url: "http://github.com/tbakerx",
+        url: "https://github.com/Tejmeister",
         className: "fa fa-github",
-      },
-      {
-        name: "skype",
-        url: "http://skype.com",
-        className: "fa fa-skype",
       },
     ],
   },
