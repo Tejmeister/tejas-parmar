@@ -5,6 +5,7 @@ import React, { Component } from "react";
 import { resume } from "./data";
 import Footer from "./Components/Footer";
 import About from "./Components/About";
+import Portfolio from "./Components/Portfolio";
 
 class App extends Component {
   constructor(props) {
@@ -30,6 +31,7 @@ class App extends Component {
       <div className="App">
         <Header data={this.state.resumeData.main} />
         <About data={this.state.resumeData.main} />
+        <Portfolio data={this.state.resumeData.portfolio} />
         <Footer data={this.state.resumeData.main} />
       </div>
     );
