@@ -125,8 +125,7 @@ export const resume = {
         category:
           "An Indian tourism website with various places showcased across India",
         image: "canadian-wanderlust.jpg",
-        url:
-          "https://www.incredibleindia.org/content/incredible-india-v2/en.html",
+        url: "https://incredible-india-2.000webhostapp.com/index.php",
       },
     ],
   },
