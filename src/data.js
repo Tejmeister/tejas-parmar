@@ -51,64 +51,67 @@ export const resume = {
       "Here you can create a short write-up of your skills to show off to employers",
     education: [
       {
+        school: "Veermata Jijabai Technological Institute",
+        degree: "B.Tech in Computer Engineering",
+        graduated: "May 2019",
+        description: "Completed Bachelors in Computer Engineering",
+      },
+      {
         school: "KC College",
-        degree: "Masters in Psychology",
-        graduated: "Dec 2021",
+        degree: "HSC",
+        graduated: "May 2015",
         description:
           "Describe your experience at school, what you learned, what useful skills you have acquired etc.",
       },
       {
-        school: "KC College",
-        degree: "Bachelors in Psychology",
-        graduated: "May 2019",
+        school: "Vanita Vishram High School",
+        degree: "SSC",
+        graduated: "May 2013",
         description:
           "Describe your experience at school, what you learned, what useful skills you have acquired etc.",
       },
     ],
     work: [
       {
-        company: "Awesome Design Studio",
-        title: "Senior UX God ",
-        years: "March 2010 - Present",
+        company: "Publicis Sapinet",
+        title: "Full Stack Developer",
+        years: "June 2019 - Present",
         description:
-          "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know.",
-      },
-      {
-        company: "Super Cool Studio",
-        title: "Junior bug fixer",
-        years: "March 2007 - February 2010",
-        description:
-          "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know.",
+          "Full stack developer on Microsoft Azure Platform. Created and managed Infrastructure, DevOps CI/CD",
       },
     ],
     skills: [
       {
-        name: "Git",
-        level: "60%",
-      },
-      {
-        name: "Illustrator",
-        level: "55%",
+        name: "Java",
+        level: "70%",
       },
       {
         name: "ReactJs",
-        level: "50%",
+        level: "60%",
+      },
+      {
+        name: "Azure DevOps",
+        level: "90%",
+      },
+      {
+        name: "MongoDB",
+        level: "90%",
+      },
+      {
+        name: "Javascript",
+        level: "60%",
       },
       {
         name: "CSS",
-        level: "90%",
+        level: "50%",
       },
       {
         name: "HTML5",
         level: "80%",
       },
       {
-        name: "VueJs",
-        level: "50%",
-      },
-      {
-        name: "MongoDB",
-        level: "80%",
+        name: "Git",
+        level: "60%",
       },
     ],
   },
