@@ -73,7 +73,7 @@ export const resume = {
     ],
     work: [
       {
-        company: "Publicis Sapinet",
+        company: "Publicis Sapient",
         title: "Full Stack Developer",
         years: "June 2019 - Present",
         description:
