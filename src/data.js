@@ -17,7 +17,7 @@ export const resume = {
       zip: "400004",
     },
     website: "https://Tejmeister.github.io/tejas-parmar",
-    resumedownload: "http://timbakerdev.com",
+    resumedownload: "",
     social: [
       {
         name: "facebook",

@@ -1,7 +1,15 @@
 import React, { Component } from "react";
 import profilePic from "../images/profilepic.png";
+import FileSaver from "file-saver";
 
 class About extends Component {
+  saveFile() {
+    FileSaver.saveAs(
+      process.env.PUBLIC_URL + "/Tejas_Parmar_CV.pdf",
+      "Tejas-Parmar-Resume-React.pdf"
+    );
+  }
+
   render() {
     if (this.props.data) {
       var name = this.props.data.name;
@@ -48,7 +56,11 @@ class About extends Component {
               </div>
               <div className="columns download">
                 <p>
-                  <a href={resumeDownload} className="button">
+                  <a
+                    href={resumeDownload}
+                    className="button"
+                    onClick={this.saveFile}
+                  >
                     <i className="fa fa-download"></i>Download Resume
                   </a>
                 </p>
