@@ -5,7 +5,7 @@ export const resume = {
     description:
       "I am full-stack developer and an enthusiastic product engineer",
     image: "profilepic.png",
-    bio: "I am a Computer Engineer",
+    bio: "I am a full-stack developer having experience in developing applications using Java Microservices architecture, ReactJS and SQL/MongoDB. I am also well versed with Agile Sofware development lifecycle methodology. Have also earned certifications on Micorsoft Azure Cloud platform",
     contactmessage:
       "Here is where you should write your message to readers to have them get in contact with you.",
     email: "tejasparmar99@gmail.com",
