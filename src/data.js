@@ -73,12 +73,19 @@ export const resume = {
     ],
     work: [
       {
+        company: "Arcesium",
+        title: "Senior Software Engineer",
+        years: "Feb 2022 - Present",
+        description:
+          "SSE working on Portfolio accounting and warehouse team. Handson experience on Java, Spring boot, SQL and ReactJS",
+      },
+      {
         company: "Publicis Sapient",
-        title: "Full Stack Developer",
-        years: "June 2019 - Present",
+        title: "Associate Software Development Engineer 2",
+        years: "June 2019 - Feb 2022",
         description:
           "Full stack developer on Microsoft Azure Platform. Created and managed Infrastructure, DevOps CI/CD",
-      },
+      }
     ],
     skills: [
       {
