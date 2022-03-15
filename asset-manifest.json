@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tejas-parmar/static/css/main.56cda763.chunk.css",
+    "main.js": "/tejas-parmar/static/js/main.7b5818fa.chunk.js",
+    "main.js.map": "/tejas-parmar/static/js/main.7b5818fa.chunk.js.map",
+    "runtime-main.js": "/tejas-parmar/static/js/runtime-main.f970dedc.js",
+    "runtime-main.js.map": "/tejas-parmar/static/js/runtime-main.f970dedc.js.map",
+    "static/js/2.e79888db.chunk.js": "/tejas-parmar/static/js/2.e79888db.chunk.js",
+    "static/js/2.e79888db.chunk.js.map": "/tejas-parmar/static/js/2.e79888db.chunk.js.map",
+    "static/js/3.863a8007.chunk.js": "/tejas-parmar/static/js/3.863a8007.chunk.js",
+    "static/js/3.863a8007.chunk.js.map": "/tejas-parmar/static/js/3.863a8007.chunk.js.map",
+    "index.html": "/tejas-parmar/index.html",
+    "static/css/main.56cda763.chunk.css.map": "/tejas-parmar/static/css/main.56cda763.chunk.css.map",
+    "static/js/2.e79888db.chunk.js.LICENSE.txt": "/tejas-parmar/static/js/2.e79888db.chunk.js.LICENSE.txt",
+    "static/media/profilepic.cfce9d8d.png": "/tejas-parmar/static/media/profilepic.cfce9d8d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f970dedc.js",
+    "static/js/2.e79888db.chunk.js",
+    "static/css/main.56cda763.chunk.css",
+    "static/js/main.7b5818fa.chunk.js"
+  ]
+}
